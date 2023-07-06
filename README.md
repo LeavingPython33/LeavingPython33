@@ -1,6 +1,6 @@
 <h1> <strong>- <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "100"> Hello, I’m Alfred </strong></h1>
-<ul style="font-size:32em">
-  <li>👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusino 360</li>
+<ul>
+  <li style="font-size:32em;">👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusion 360</li>
   <li>🌱 I’m interested in video games, robotics, and gardening.</li>
   <li>🎮 Visit my itch page https://leavingpython33.itch.io/ to see some of the stuff I made.</li>
 </ul>
