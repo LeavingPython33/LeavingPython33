@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1> <strong>- <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "100"> Hello, I’m Alfred </strong></h1>
+    <h1> <strong><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "100"> Hello, I’m Alfred </strong></h1>
     <div>
       <ul>
         <li >👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusion 360</li>
