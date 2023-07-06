@@ -1,5 +1,4 @@
-<h1> <strong>- 👋 Hi, I’m Alfred </strong></h1>
-<img src="https://img.itch.zone/aW1nLzEyNDI5MTM1LmdpZg==/original/kbJ15D.gif">
+<h1> <strong>- <img src="https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif"> Hello, I’m Alfred </strong></h1>
 <hr>
 - 👀 I’m interested in ...
 <br>
