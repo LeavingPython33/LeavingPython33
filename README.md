@@ -1,6 +1,4 @@
 <h1> <strong>- <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "100"> Hello, I’m Alfred </strong></h1>
-<hr>
-
 <ul>
   <li>👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusino 360</li>
   <li>🌱 I’m interested in video games, robotics, and gardening.</li>
