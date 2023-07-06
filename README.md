@@ -1,4 +1,5 @@
-<h1> <strong>- 👋 Hi, I’m LeavingPython33 </strong></h1>
+<h1> <strong>- 👋 Hi, I’m Alfred </strong></h1>
+<img src="https://img.itch.zone/aW1nLzEyNDI5MTM1LmdpZg==/original/kbJ15D.gif">
 <hr>
 - 👀 I’m interested in ...
 <br>
