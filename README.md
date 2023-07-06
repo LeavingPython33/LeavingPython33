@@ -1,4 +1,4 @@
-<h1> <strong>- <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Hello, I’m Alfred </strong></h1>
+<h1> <strong>- <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "200"> Hello, I’m Alfred </strong></h1>
 <hr>
 - 👀 I’m interested in ...
 <br>
