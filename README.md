@@ -1,6 +1,7 @@
-- 👋 Hi, I’m LeavingPython33
+<h1> <strong>- 👋 Hi, I’m LeavingPython33 </strong></h1>
 <hr>
 - 👀 I’m interested in ...
+<br>
 - 🌱 I’m currently learning game development
 
 <!---
