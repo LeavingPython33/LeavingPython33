@@ -4,7 +4,7 @@
     <div>
       <ul>
         <li >👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusion 360</li>
-        <li>🌱 I’m interested in video games, robotics, and gardening.</li>
+        <li>🌱 I’m interested in video games, robotics, and urban farming.</li>
         <li>🎮 Visit my itch page https://leavingpython33.itch.io/ to see some of the stuff I made.</li>
       </ul>
     </div>
