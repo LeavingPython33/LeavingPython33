@@ -3,9 +3,10 @@
     <h1> <strong><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width = "75"> Hello, I’m Alfred </strong></h1>
     <div>
       <ul>
-        <li >👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusion 360</li>
+        <li>👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusion 360</li>
         <li>🌱 I’m interested in video games, robotics, and urban farming.</li>
         <li>🎮 Visit my itch page https://leavingpython33.itch.io/ to see some of the stuff I made.</li>
+        <li>✍️ Currently working on RockAShot a point and shoot platformer</li>
       </ul>
     </div>
     <br>
