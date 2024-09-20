@@ -6,7 +6,7 @@
         <li>👦 I'm currently a CompSci student, intermediate at Godot 4, and proficient at Fusion 360</li>
         <li>🌱 I’m interested in video games, fpv drones, robotics, and urban farming.</li>
         <li>🎮 Visit my itch page https://leavingpython33.itch.io/ to see some of the stuff I made.</li>
-        <li>✍️ Currently working on RockAShot a point and shoot platformer</li>
+        <li>✍️ Currently working on a website to display my games</li>
       </ul>
     </div>
     <br>
